@@ -1,3 +1,3 @@
-# Scanit
+# BallondorMLAppProject
+Machine learing App using Tesorflow lite kotlin Android Application to Classify Ballondor Candidate Player
 
-โปรเจ็ค Mobile Application ให้ทำการเพิ่ม Model TensorFlow Lite เข้าไปแก้ไขได้เลย
